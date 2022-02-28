@@ -4,6 +4,10 @@ Simple CLI program with TTS which replaces statistics with fill-in-the-gaps, hel
 
 Simply create a plaintext document with your flashcard content, save in the same folder, run `StatisticsLeaner.py`, and enter the filename of your plaintext file.
 
+# Platform support
+
+This program is designed to work on any relatively-new Windows operating system. It has not been tested on Linux.
+
 # Requirements
 
 - Python 3 (tested on py3.10) installed and added to path (make sure add to path is selected when installing python3)

@@ -28,7 +28,7 @@ pywin32==303
     # via
     #   pypiwin32
     #   pyttsx3
-requests==2.27.1
+requests==2.31.0
     # via gtts
 six==1.16.0
     # via gtts
